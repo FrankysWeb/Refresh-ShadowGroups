@@ -4,13 +4,12 @@
 # Usage
  Modify these lines and create a OU to group mapping:
  
- ``
+```
  $OUtoGroupList = @{
     "OU=OU1,OU=Benutzer,DC=frankysweblab,DC=de" = "ShadowGroup_OU1"
     "OU=OU2,OU=Benutzer,DC=frankysweblab,DC=de" = "ShadowGroup_OU2"
  }
- 
- `` 
+ ```
  Run Refresh-ShadowGroups.ps1 with task sheduler
 
 ## Windows Server Versions
