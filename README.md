@@ -1,7 +1,7 @@
 # Refresh-ShadowGroups
  Refresh Active Directory shadow groups with PowerShell
  
-# Usage
+## Usage
  Modify these lines and create a OU to group mapping:
  
 ```
