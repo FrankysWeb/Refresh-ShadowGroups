@@ -17,5 +17,9 @@
  - Windows Server 2019
  - Windows Server 2022
 
+## Details
+check my blog for details (german language):
+ [Active Directory Shadow Groups aktualisieren](https://www.frankysweb.de/active-directory-shadow-groups-aktualisieren/)
+
 ## Website
  [FrankysWeb](https://www.frankysweb.de/)
